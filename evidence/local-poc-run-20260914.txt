@@ -1,0 +1,8 @@
+Date: 2026-09-14
+Runtime: JDK 21.0.9
+Target: a temporary marker file created and deleted by poc/XxePoc.java; no network or Nacos server.
+
+Observed stable stdout:
+fixture=created-by-this-process
+unhardened.config.leaked=CONTROLLED-LOCAL-SECRET
+hardened=rejected (IOException)
