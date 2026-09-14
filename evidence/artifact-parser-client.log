@@ -1,0 +1,12 @@
+# Prior retained validation record
+
+This file contains only the two identifying lines from a previously retained local
+validation run. The run used the released `com.alibaba.cloud:spring-alibaba-nacos-config:2025.1.0.0`
+artifact and a marker file created by that run. It did not use a pre-existing secret
+or an external target. The record is supplied evidence; it was not executed in the
+current drafting session.
+
+```text
+ARTIFACT_PARSER_MARKER=LOCAL_XXE_MARKER_20260908_7F4FEC5C
+ARTIFACT_PARSER_RESULT=LOCAL_XXE_MARKER_REACHED_PROPERTY_SOURCE
+```
